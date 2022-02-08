@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RendiZein/RendiZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Perkenalkan nama saya **Rhendiya Maulana Zen**.\
 Saya seorang mahasiswa Teknik Nuklir Universitas Gadjah Mada\
 Saya memiliki antusias dan ketertarikan tinggi terhadap data science dan machine learning \
